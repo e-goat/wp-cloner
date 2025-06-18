@@ -14,7 +14,7 @@ use phpseclib\Net\SFTP;
 use phpseclib\Net\SSH2;
 use phpseclib\Crypt\RSA;
 
-class Diy_Tool_Plugin_Portal_Copier
+class ThemeCopier
 {
     private $fetch;
     private $name;
