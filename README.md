@@ -1,4 +1,5 @@
 # wp-cloner
-Tired of copying files and searching through multiple lines of code just to change the slug everywhere? - here is a solution for that
-Plugin setup which can be used to clone existing themes stored on your WP environment and simply change their slug. Its that simple!
-You can add the slug to js/php arrays, run SHELL tasks etc...
+
+Tired of manually copying theme files and hunting down every slug reference? `wp-cloner` makes it effortless.
+
+This handy plugin lets you clone any existing theme in your WordPress environment and update its slug across the board — including in JS/PHP arrays, SHELL tasks, and more. Fast, clean, and dependancy-free.
